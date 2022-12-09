@@ -79,7 +79,7 @@
     "rxjs-compat": "^6.5.4",
     "screenfull": "^4.2.0",
     "sweetalert2": "^8.13.0",
-    "tinymce": "^4.8.3",
+    "tinymce": "^5.10.7",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
